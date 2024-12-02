@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Dev\SFML\imgui\x64\Debug\imgui.exe</FullPath>
+      <FullPath>C:\Dev\SFML\SimpleSFMLImGuiApp\x64\Debug\imgui.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

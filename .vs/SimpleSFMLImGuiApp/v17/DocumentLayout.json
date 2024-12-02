@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Dev\\SFML\\imgui\\",
+  "WorkspaceRootPath": "C:\\Dev\\SFML\\SimpleSFMLImGuiApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7C35847-096E-4448-863F-960ADAC81E03}|imgui.vcxproj|C:\\Dev\\SFML\\imgui\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D7C35847-096E-4448-863F-960ADAC81E03}|imgui.vcxproj|C:\\Dev\\SFML\\SimpleSFMLImGuiApp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D7C35847-096E-4448-863F-960ADAC81E03}|imgui.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Dev\\SFML\\imgui\\main.cpp",
+              "DocumentMoniker": "C:\\Dev\\SFML\\SimpleSFMLImGuiApp\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Dev\\SFML\\imgui\\main.cpp",
+              "ToolTip": "C:\\Dev\\SFML\\SimpleSFMLImGuiApp\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA0AAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADAAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-02T12:49:39.992Z",
               "EditorCaption": ""
